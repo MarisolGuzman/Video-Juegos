@@ -8,18 +8,16 @@
 ## Funcionalidades Principales
 ### Encabezado con navegación:
 
-- Menú de navegación que dirige a diferentes secciones del sitio: Inicio, Juegos Populares, Noticias y Contacto.
-Juegos destacados:
-
-- Una sección que presenta imágenes y contenido relacionado con videojuegos icónicos.
+-Menú de navegación que dirige a diferentes secciones del sitio: Inicio, Juegos Populares, Noticias y Contacto.
+-Una sección que presenta imágenes y contenido relacionado con videojuegos icónicos.
 
 ## Juegos recomendados:
 ### Lista curada de títulos destacados como:
--Pacman 
--GTA VI 
--Sonic
--Gears of War 
--God of War
+ -Pacman 
+ -GTA VI 
+ -Sonic
+ -Gears of War 
+ -God of War
 
 ### Tecnologías Utilizadas
 -HTML5: Para la estructura y el contenido del sitio web.
