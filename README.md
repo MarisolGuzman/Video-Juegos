@@ -15,11 +15,11 @@ Juegos destacados:
 
 ## Juegos recomendados:
 ### Lista curada de títulos destacados como:
-  -Pacman, 
-   -GTA VI, 
-   -Sonic, -
-   -Gears of War 
-   -God of War.
+-Pacman 
+-GTA VI 
+-Sonic
+-Gears of War 
+-God of War
 
 ### Tecnologías Utilizadas
 -HTML5: Para la estructura y el contenido del sitio web.
